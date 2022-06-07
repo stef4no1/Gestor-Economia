@@ -1,0 +1,52 @@
+/* Resets */
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;500&family=Koulen&family=Lato:ital,wght@0,300;0,400;0,700;1,100;1,300;1,400&family=Montserrat:wght@400;600;900&family=Oswald:wght@200;400&family=Poppins&family=Teko:wght@300;400;500&display=swap');
+
+body{
+    background-color: dimgray;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 40px;
+    color: white;
+    padding-top: 1%;
+}
+
+/* Formulario */
+form {
+    text-align: center;
+    margin: 5%;
+    font-size: 20px;
+}
+
+.claseFormulario {
+    margin: 3%;
+}
+
+#botonEnvio {
+    font-size: 23px;
+    background-color: black;
+    color: white;
+    padding-right: 2%;
+    padding-left: 2%;
+    cursor: pointer;
+}
+button {
+    font-size: 23px;
+    background-color: black;
+    color: white;
+    padding-right: 2%;
+    padding-left: 2%;
+    cursor: pointer;
+}
+/* Tabla */
+td, th{
+    border: solid black 1px;
+    padding: 20px;
+    text-align: center;
+}
+.tableFormat table{
+    margin: 0 auto;
+}
